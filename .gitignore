@@ -1,0 +1,11 @@
+/**/*.pyc
+/.idea
+/data/*
+/data/output/*
+/data/test/*
+/data/train/neg/*
+/data/train/pos/*
+!/data/output
+!/data/test
+!/data/train
+!.gitkeep
